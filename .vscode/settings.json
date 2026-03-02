@@ -1,0 +1,33 @@
+{
+  "latex-workshop.latex.tools": [
+    {
+      "name": "lualatex",
+      "command": "lualatex",
+      "args": [
+        "-synctex=1",
+        "-interaction=nonstopmode",
+        "-file-line-error",
+        "%DOC%"
+      ],
+      "env": {
+        "PATH": "/Library/TeX/texbin:%PATH%"
+      }
+    },
+    {
+      "name": "bibtex",
+      "command": "bibtex",
+      "args": ["%DOCFILE%"],
+      "env": {
+        "PATH": "/Library/TeX/texbin:%PATH%"
+      }
+    }
+  ],
+  "latex-workshop.latex.recipes": [
+    {
+      "name": "lualatex -> bibtex -> lualatex x2",
+      "tools": ["lualatex", "bibtex", "lualatex", "lualatex"]
+    }
+  ],
+  "latex-workshop.latex.recipe.default": "lualatex -> bibtex -> lualatex x2",
+  "latex-workshop.view.pdf.viewer": "tab"
+}

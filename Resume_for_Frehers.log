@@ -1,19 +1,15 @@
-This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=lualatex 2026.1.19)  1 MAR 2026 16:55
+This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=lualatex 2026.1.19)  1 MAR 2026 17:08
  restricted system commands enabled.
  file:line:error style messages enabled.
-**Resume_for_Frehers.tex
-(./Resume_for_Frehers.tex
+**/Users/horie/Documents/GitHub/bio/Resume_for_Frehers
+(/Users/horie/Documents/GitHub/bio/Resume_for_Frehers.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 Lua module: luaotfload 2024-12-03 v3.29 Lua based OpenType font support
 Lua module: lualibs 2023-07-13 v2.76 ConTeXt Lua standard libraries.
-Lua module: lualibs-extended 2023-07-13 v2.76 ConTeXt Lua libraries -- extended 
-collection.
-luaotfload | conf : Root cache directory is "/Users/horie/Library/texlive/2025ba
-sic/texmf-var/luatex-cache/generic/names".
-luaotfload | init : Loading fontloader "fontloader-2023-12-28.lua" from kpse-res
-olved path "/usr/local/texlive/2025basic/texmf-dist/tex/luatex/luaotfload/fontlo
-ader-2023-12-28.lua".
+Lua module: lualibs-extended 2023-07-13 v2.76 ConTeXt Lua libraries -- extended collection.
+luaotfload | conf : Root cache directory is "/Users/horie/Library/texlive/2025basic/texmf-var/luatex-cache/generic/names".
+luaotfload | init : Loading fontloader "fontloader-2023-12-28.lua" from kpse-resolved path "/usr/local/texlive/2025basic/texmf-dist/tex/luatex/luaotfload/fontloader-2023-12-28.lua".
 Lua-only attribute luaotfload@noligature = 1
 luaotfload | init : Context OpenType loader version 3.134
 Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
@@ -21,8 +17,7 @@ Inserting `luaotfload.node_processor' in `hpack_filter'.
 Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
 Inserting `luaotfload.define_font' in `define_font'.
 Lua-only attribute luaotfload_color_attribute = 2
-luaotfload | conf : Root cache directory is "/Users/horie/Library/texlive/2025ba
-sic/texmf-var/luatex-cache/generic/names".
+luaotfload | conf : Root cache directory is "/Users/horie/Library/texlive/2025basic/texmf-var/luatex-cache/generic/names".
 Inserting `luaotfload.harf.strip_prefix' in `find_opentype_file'.
 Inserting `luaotfload.harf.strip_prefix' in `find_truetype_file'.
 Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
@@ -46,8 +41,7 @@ Document Class: resume 2010/07/10 v0.9 Resume class
 Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
 (/usr/local/texlive/2025basic/texmf-dist/tex/latex/base/size11.clo
 File: size11.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
-luaotfload | db : Font names database loaded from /Users/horie/Library/texlive/2
-025basic/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz)
+luaotfload | db : Font names database loaded from /Users/horie/Library/texlive/2025basic/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz)
 \c@part=\count194
 \c@section=\count195
 \c@subsection=\count196
@@ -59,28 +53,21 @@ luaotfload | db : Font names database loaded from /Users/horie/Library/texlive/2
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen140
-)
-(/usr/local/texlive/2025basic/texmf-dist/tex/latex/parskip/parskip.sty
+) (/usr/local/texlive/2025basic/texmf-dist/tex/latex/parskip/parskip.sty
 Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
-
-(/usr/local/texlive/2025basic/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+ (/usr/local/texlive/2025basic/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
-
-(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics/keyval.sty
+ (/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
-)
-(/usr/local/texlive/2025basic/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+) (/usr/local/texlive/2025basic/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
-)
-(/usr/local/texlive/2025basic/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+) (/usr/local/texlive/2025basic/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-))
-(/usr/local/texlive/2025basic/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+)) (/usr/local/texlive/2025basic/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count268
-))
-(/usr/local/texlive/2025basic/texmf-dist/tex/latex/tools/array.sty
+)) (/usr/local/texlive/2025basic/texmf-dist/tex/latex/tools/array.sty
 Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
 \col@sep=\dimen141
 \ar@mcellbox=\box52
@@ -89,46 +76,34 @@ Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
 \extratabsurround=\skip51
 \backup@length=\skip52
 \ar@cellbox=\box53
-)
-(/usr/local/texlive/2025basic/texmf-dist/tex/latex/base/ifthen.sty
+) (/usr/local/texlive/2025basic/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
-))
-(/Users/horie/Library/texmf/tex/luatex/luatexja/luatexja.sty
+)) (/Users/horie/Library/texmf/tex/luatex/luatexja/luatexja.sty
 Package: luatexja 2026-01-30 Japanese Typesetting with Lua(La)TeX
-
-(/Users/horie/Library/texmf/tex/luatex/luatexja/luatexja-core.sty
+ (/Users/horie/Library/texmf/tex/luatex/luatexja/luatexja-core.sty
 Package: luatexja-core 2023-10-07 Core of LuaTeX-ja
-
-(/usr/local/texlive/2025basic/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+ (/usr/local/texlive/2025basic/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-)
-(/usr/local/texlive/2025basic/texmf-dist/tex/luatex/luatexbase/luatexbase.sty
+) (/usr/local/texlive/2025basic/texmf-dist/tex/luatex/luatexbase/luatexbase.sty
 Package: luatexbase 2015/10/04 v1.3 luatexbase interface to LuaTeX 
-
-(/usr/local/texlive/2025basic/texmf-dist/tex/luatex/ctablestack/ctablestack.sty
+ (/usr/local/texlive/2025basic/texmf-dist/tex/luatex/ctablestack/ctablestack.sty
 Package: ctablestack 2015/10/01 v1.0 Catcode table stable support
 \@catcodetablestackcnt=\count269
 )
 \CatcodeTableOther=\catcodetable14
 \CatcodeTableExpl=\catcodetable15
-)
-(/usr/local/texlive/2025basic/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-(/usr/local/texlive/2025basic/texmf-dist/tex/generic/iftex/iftex.sty
+) (/usr/local/texlive/2025basic/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/local/texlive/2025basic/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 \pdftexcmds@toks=\toks19
-)
-(/usr/local/texlive/2025basic/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+) (/usr/local/texlive/2025basic/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
-
-(/usr/local/texlive/2025basic/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(/usr/local/texlive/2025basic/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+ (/usr/local/texlive/2025basic/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/local/texlive/2025basic/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks20
 \XKV@tempa@toks=\toks21
 )
@@ -171,8 +146,7 @@ Custom whatsit begin_par = 3
 Custom whatsit direction = 4
 Custom whatsit box_boundary = 5
 Custom whatsit ja_al_boundary = 6(load cache: ltj-cid-auto-adobe-japan1.luc)
-Lua module: luatexja.charrange 2022-08-19 Handling the range of Japanese charact
-ers
+Lua module: luatexja.charrange 2022-08-19 Handling the range of Japanese characters
 Lua module: luatexja.stack 2022-08-20 LuaTeX-ja stack system
 Inserting `ltj.create_dir_whatsit' in `hpack_filter'.
 Inserting `ltj.create_dir_whatsit' in `post_linebreak_filter'.
@@ -196,8 +170,7 @@ Inserting `luaotfload.aux.patch_cambria_domh' in `luaotfload.patch_font'.
 Inserting `luaotfload.aux.set_capheight' in `luaotfload.patch_font'.
 Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
 Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
-Inserting `ltj.prepare_extra_data' in `luatexja.define_font'.(load cache: extra_
-lmroman10-regular.luc)
+Inserting `ltj.prepare_extra_data' in `luatexja.define_font'.(load cache: extra_lmroman10-regular.luc)
 Inserting `ltj.get_vert_form' in `luatexja.define_jfont'.
 Removing  `ltj.prepare_extra_data' from `luaotfload.patch_font'.
 Removing  `luaotfload.aux.set_sscale_dimens' from `luaotfload.patch_font'.
@@ -226,8 +199,7 @@ Inserting `ltj.create_dir_whatsit' in `hpack_filter'.
 Removing  `luaotfload.node_processor' from `pre_linebreak_filter'.
 Inserting `ltj.set_stack_level' in `pre_linebreak_filter'.
 Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
-Lua module: luatexja.jfmglue 2026-01-07 Insertion process of JFM glues, [x]kanji
-skip and others
+Lua module: luatexja.jfmglue 2026-01-07 Insertion process of JFM glues, [x]kanjiskip and others
 Inserting `luatexja.beginpar.np_info' in `luatexja.jfmglue.whatsit_getinfo'.
 Inserting `luatexja.beginpar.np_info_after' in `luatexja.jfmglue.whatsit_after'.
 Inserting `ltj.mlist_to_hlist_pre' in `pre_mlist_to_hlist_filter'.
@@ -254,8 +226,7 @@ Inserting `ltj.set_stack_level' in `hpack_filter'.
 Inserting `luaotfload.node_processor' in `hpack_filter'.
 Inserting `ltj.main' in `hpack_filter'.
 Inserting `luaotfload.harf.finalize_hlist' in `hpack_filter'.
-Inserting `ltj.create_dir_whatsit' in `hpack_filter'.
-(/Users/horie/Library/texmf/tex/luatex/luatexja/ltj-base.sty
+Inserting `ltj.create_dir_whatsit' in `hpack_filter'. (/Users/horie/Library/texmf/tex/luatex/luatexja/ltj-base.sty
 Package: ltj-base 2021-03-16
 \ltj@tempcntb=\count275
 \ltj@tempcntc=\count276
@@ -292,15 +263,12 @@ Package: ltj-base 2021-03-16
 \ltj@@lua@unboxcheckdir@inner=\luafunction55
 \ltj@@lua@uncopycheckdir@inner=\luafunction56
 \ltj@@lua@uncopy@restore@whatsit@inner=\luafunction57
-(load cache: ltj-kinsoku_default.luc)
-(/Users/horie/Library/texmf/tex/luatex/luatexja/ltj-latex.sty
+(load cache: ltj-kinsoku_default.luc) (/Users/horie/Library/texmf/tex/luatex/luatexja/ltj-latex.sty
 Package: ltj-latex 2025-06-08 LaTeX support of LuaTeX-ja
-Inserting `ltj.direction' in `pre_shipout_filter'.
-(/Users/horie/Library/texmf/tex/luatex/luatexja/patches/lltjfont.sty
+Inserting `ltj.direction' in `pre_shipout_filter'. (/Users/horie/Library/texmf/tex/luatex/luatexja/patches/lltjfont.sty
 Package: lltjfont 2025-10-26 Patch to NFSS2 for LuaTeX-ja
 \ltj@@latex@plv=\count277
-
-(/usr/local/texlive/2025basic/texmf-dist/tex/latex/base/tuenc.def
+ (/usr/local/texlive/2025basic/texmf-dist/tex/latex/base/tuenc.def
 File: tuenc.def 2021/04/29 v2.0v Standard LaTeX file
 \@remove@tlig@@@=\luafunction58
 LaTeX Font Info:    Redeclaring font encoding TU on input line 105.
@@ -339,8 +307,7 @@ LaTeX Info: Redefining \fontshapeforce on input line 833.
 \ltj@@jfont@@jfmonly@@inner=\luafunction69
 \ltj@@does@alt@set@@inner=\luafunction70
 \ltj@@cipath@clear@inner=\luafunction71
-)
-(/Users/horie/Library/texmf/tex/luatex/luatexja/patches/lltjdefs.sty
+) (/Users/horie/Library/texmf/tex/luatex/luatexja/patches/lltjdefs.sty
 Package: lltjdefs 2024-05-16 Default font settings of LuaTeX-ja
 LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
 (Font)              scaled to size 9.6222pt on input line 69.
@@ -353,15 +320,11 @@ LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
 \symmincho=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
 (Font)                  JY3/mc/m/n --> JY3/gt/m/n on input line 78.
-)
-(/Users/horie/Library/texmf/tex/luatex/luatexja/patches/lltjcore-241201.sty
+) (/Users/horie/Library/texmf/tex/luatex/luatexja/patches/lltjcore-241201.sty
 Package: lltjcore-241201 2025-03-02 Patch to LaTeX2e Kernel for LuaTeX-ja
-
-(/usr/local/texlive/2025basic/texmf-dist/tex/latex/l3kernel/expl3.sty
+ (/usr/local/texlive/2025basic/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2025-01-18 L3 programming layer (loader) 
-
-(/usr/local/texlive/2025basic/texmf-dist/tex/latex/l3backend/l3backend-luatex.d
-ef
+ (/usr/local/texlive/2025basic/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
 File: l3backend-luatex.def 2024-05-08 L3 backend support: PDF output (LuaTeX)
 \l__color_backend_stack_int=\count278
 Inserting `l3color' in `luaotfload.parse_color'.
@@ -386,33 +349,25 @@ Inserting `l3color' in `luaotfload.parse_color'.
 \@@paperwidth=\dimen160
 \@@topmargin=\dimen161
 LaTeX Info: Redefining \underline on input line 285.
-)
-(/Users/horie/Library/texmf/tex/luatex/luatexja/patches/lltjp-atbegshi.sty
+) (/Users/horie/Library/texmf/tex/luatex/luatexja/patches/lltjp-atbegshi.sty
 Package: lltjp-atbegshi 2024-05-14 Patching \shipout hooks for LuaTeX-ja
 \l__platex_shipout_dummy_box=\box71
-)
-(/Users/horie/Library/texmf/tex/luatex/luatexja/patches/lltjp-geometry.sty
-Package: lltjp-geometry 2024-05-16 Patch to geometry for LuaTeX-ja with vertica
-l writing mode
-
-(/usr/local/texlive/2025basic/texmf-dist/tex/generic/iftex/ifluatex.sty
+) (/Users/horie/Library/texmf/tex/luatex/luatexja/patches/lltjp-geometry.sty
+Package: lltjp-geometry 2024-05-16 Patch to geometry for LuaTeX-ja with vertical writing mode
+ (/usr/local/texlive/2025basic/texmf-dist/tex/generic/iftex/ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 )))
 \ltj@temp@cctb=\catcodetable16
-)
-(/Users/horie/Library/texmf/tex/luatex/luatexja/luatexja-compat.sty
+) (/Users/horie/Library/texmf/tex/luatex/luatexja/luatexja-compat.sty
 Package: luatexja-compat 2025-09-21 Compatibility with pTeX
 (load cache: ltj-jisx0208.luc)
 \hour=\count279
 \minute=\count280
-))
-(/usr/local/texlive/2025basic/texmf-dist/tex/latex/natbib/bibentry.sty
+)) (/usr/local/texlive/2025basic/texmf-dist/tex/latex/natbib/bibentry.sty
 Package: bibentry 2007/10/30 1.5 (PWD)
-)
-(/usr/local/texlive/2025basic/texmf-dist/tex/latex/geometry/geometry.sty
+) (/usr/local/texlive/2025basic/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
-
-(/usr/local/texlive/2025basic/texmf-dist/tex/generic/iftex/ifvtex.sty
+ (/usr/local/texlive/2025basic/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 \Gm@cnth=\count281
@@ -427,40 +382,38 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layouthoffset=\dimen168
 \Gm@layoutvoffset=\dimen169
 \Gm@dimlist=\toks25
-)
-(/Users/horie/Library/texmf/tex/luatex/luatexja/patches/lltjp-array.sty
+) (/Users/horie/Library/texmf/tex/luatex/luatexja/patches/lltjp-array.sty
 Package: lltjp-array 2024-07-21 Patch to array for LuaTeX-ja
 )
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 9.6222pt on input line 35.
-
-(./Resume_for_Frehers.aux)
+(Font)              scaled to size 9.6222pt on input line 36.
+ (./Resume_for_Frehers.aux)
 \openout1 = Resume_for_Frehers.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for JY3/mc/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for JT3/mc/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for JY3/mc/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for JT3/mc/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
 LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
-(Font)              scaled to size 10.53629pt on input line 35.
+(Font)              scaled to size 10.53629pt on input line 36.
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 10.53629pt on input line 35.
+(Font)              scaled to size 10.53629pt on input line 36.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -498,115 +451,115 @@ LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
 
 (load cache: extra_lmroman17-regular.luc)
 LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
-(Font)              scaled to size 19.95642pt on input line 35.
+(Font)              scaled to size 19.95642pt on input line 36.
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 19.95642pt on input line 35.
+(Font)              scaled to size 19.95642pt on input line 36.
 (load cache: extra_lmroman12-bold.luc)
 LaTeX Font Info:    Font shape `JT3/mc/b/n' in size <20.74> not available
-(Font)              Font shape `JT3/gt/m/n' tried instead on input line 35.
+(Font)              Font shape `JT3/gt/m/n' tried instead on input line 36.
 LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
-(Font)              scaled to size 19.95642pt on input line 35.
+(Font)              scaled to size 19.95642pt on input line 36.
 LaTeX Font Info:    Font shape `JY3/mc/b/n' in size <20.74> not available
-(Font)              Font shape `JY3/gt/m/n' tried instead on input line 35.
+(Font)              Font shape `JY3/gt/m/n' tried instead on input line 36.
 LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
-(Font)              scaled to size 19.95642pt on input line 35.
+(Font)              scaled to size 19.95642pt on input line 36.
 (load cache: extra_haranoajigothic-medium.luc)
-Overfull \hbox (30.0pt too wide) in paragraph at lines 35--35
+Overfull \hbox (30.0pt too wide) in paragraph at lines 36--36
 [] 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 35.
+(Font)              <10.95> on input line 36.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 35.
+(Font)              <8> on input line 36.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 35.
+(Font)              <6> on input line 36.
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 7.69775pt on input line 35.
+(Font)              scaled to size 7.69775pt on input line 36.
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 5.77332pt on input line 35.
+(Font)              scaled to size 5.77332pt on input line 36.
 (./Resume_for_Frehers.bbl)(load cache: extra_lmroman10-bold.luc)
 LaTeX Font Info:    Font shape `JT3/mc/b/n' in size <10.95> not available
-(Font)              Font shape `JT3/gt/m/n' tried instead on input line 44.
+(Font)              Font shape `JT3/gt/m/n' tried instead on input line 45.
 LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
-(Font)              scaled to size 10.53629pt on input line 44.
+(Font)              scaled to size 10.53629pt on input line 45.
 LaTeX Font Info:    Font shape `JY3/mc/b/n' in size <10.95> not available
-(Font)              Font shape `JY3/gt/m/n' tried instead on input line 44.
+(Font)              Font shape `JY3/gt/m/n' tried instead on input line 45.
 LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
-(Font)              scaled to size 10.53629pt on input line 44.
+(Font)              scaled to size 10.53629pt on input line 45.
 LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
-(Font)              scaled to size 10.53629pt on input line 47.
+(Font)              scaled to size 10.53629pt on input line 48.
 (load cache: extra_lmroman10-italic.luc)
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 47.
+(Font)              No change on input line 48.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 52.
+(Font)              No change on input line 53.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 57.
+(Font)              No change on input line 58.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 69.
+(Font)              No change on input line 70.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 69.
+(Font)              No change on input line 70.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 72.
+(Font)              No change on input line 73.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 72.
+(Font)              No change on input line 73.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 75.
+(Font)              No change on input line 76.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 75.
+(Font)              No change on input line 76.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 84.
+(Font)              No change on input line 85.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 84.
+(Font)              No change on input line 85.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 94.
+(Font)              No change on input line 95.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 94.
+(Font)              No change on input line 95.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 101.
+(Font)              No change on input line 102.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 101.
+(Font)              No change on input line 102.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 116.
+(Font)              No change on input line 117.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 120.
+(Font)              No change on input line 121.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 129.
+(Font)              No change on input line 130.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 131.
+(Font)              No change on input line 132.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 133.
+(Font)              No change on input line 134.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 135.
+(Font)              No change on input line 136.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 137.
+(Font)              No change on input line 138.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 140.
+(Font)              No change on input line 141.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 143.
+(Font)              No change on input line 144.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 145.
+(Font)              No change on input line 146.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 148.
+(Font)              No change on input line 149.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 151.
+(Font)              No change on input line 152.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 154.
+(Font)              No change on input line 155.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 157.
+(Font)              No change on input line 158.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 160.
+(Font)              No change on input line 161.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 163.
+(Font)              No change on input line 164.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 166.
+(Font)              No change on input line 167.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 169.
+(Font)              No change on input line 170.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 172.
+(Font)              No change on input line 173.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 175.
+(Font)              No change on input line 176.
 
 
 [1
@@ -615,11 +568,9 @@ LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 
 [2]
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 188.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 189.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 194.
+(Font)              No change on input line 190.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 195.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
@@ -629,26 +580,25 @@ LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 198.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 200.
+(Font)              No change on input line 199.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 201.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 202.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 203.
 
-Overfull \hbox (6.65753pt too wide) in paragraph at lines 202--203
-[]\TU/lmr/m/n/10.95 Hideki Shi-mobayashi, To-moya Sasaki, Arata Horie, Riku Arak
-awa, Zendai Kashino, and Masahiko
+Overfull \hbox (6.65753pt too wide) in paragraph at lines 203--204
+[]\TU/lmr/m/n/10.95 Hideki Shi-mobayashi, To-moya Sasaki, Arata Horie, Riku Arakawa, Zendai Kashino, and Masahiko
  []
 
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 203.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 204.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 205.
 
 
 [3]
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 209.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 210.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
@@ -671,11 +621,11 @@ LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 219.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 220.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 221.
 
 
 [4]
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 226.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 227.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
@@ -687,29 +637,31 @@ LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 231.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 241.
+(Font)              No change on input line 232.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 241.
+(Font)              No change on input line 242.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 244.
+(Font)              No change on input line 242.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 244.
+(Font)              No change on input line 245.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 247.
+(Font)              No change on input line 245.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 247.
+(Font)              No change on input line 248.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 255.
+(Font)              No change on input line 248.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 255.
+(Font)              No change on input line 256.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 259.
+(Font)              No change on input line 256.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 259.
+(Font)              No change on input line 260.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 263.
+(Font)              No change on input line 260.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 263.
+(Font)              No change on input line 264.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 264.
 
 
 [5] (./Resume_for_Frehers.aux)
@@ -723,21 +675,12 @@ Here is how much of LuaTeX's memory you used:
  3571 strings out of 475506
  195404,662416 words of node,token memory allocated
  797 words of node memory still in use:
-   7 hlist, 1 vlist, 4 rule, 2 glue, 3 kern, 1 glyph, 129 attribute, 50 glue_spe
-c, 20 attribute_list, 1 write, 9 user_defined nodes
+   7 hlist, 1 vlist, 4 rule, 2 glue, 3 kern, 1 glyph, 129 attribute, 50 glue_spec, 20 attribute_list, 1 write, 9 user_defined nodes
    avail lists: 1:50,2:60755,3:298,4:287,5:551,6:32,7:8171,8:2,9:384,10:7,11:606
-
  26491 multiletter control sequences out of 65536+600000
  38 fonts using 28613543 bytes
- 110i,5n,115p,1862b,443s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2025basic/texmf-dist/fonts/opentype/public/haranoaji/HaranoA
-jiMincho-Regular.otf></usr/local/texlive/2025basic/texmf-dist/fonts/opentype/pub
-lic/haranoaji/HaranoAjiGothic-Medium.otf></usr/local/texlive/2025basic/texmf-dis
-t/fonts/opentype/public/lm/lmroman10-italic.otf></usr/local/texlive/2025basic/te
-xmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf></usr/local/texlive/2025bas
-ic/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></usr/local/texlive
-/2025basic/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.otf></usr/local/te
-xlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+ 110i,5n,115p,1892b,443s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2025basic/texmf-dist/fonts/opentype/public/haranoaji/HaranoAjiMincho-Regular.otf></usr/local/texlive/2025basic/texmf-dist/fonts/opentype/public/haranoaji/HaranoAjiGothic-Medium.otf></usr/local/texlive/2025basic/texmf-dist/fonts/opentype/public/lm/lmroman10-italic.otf></usr/local/texlive/2025basic/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf></usr/local/texlive/2025basic/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></usr/local/texlive/2025basic/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.otf></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
 Output written on Resume_for_Frehers.pdf (5 pages, 62884 bytes).
 
 PDF statistics: 66 PDF objects out of 1000 (max. 8388607)

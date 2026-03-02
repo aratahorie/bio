@@ -2,156 +2,108 @@
 
 \bibitem{horie2020design}
 Arata Horie, Hideki Shimobayashi, Hiroto Saito, and Masahiko Inami.
-\newblock Designing distributed-type haptic device based on rotational skin
-  stretch.
-\newblock {\em Transactions of the Virtual Reality Society of Japan},
-  25(4):402--411, 2020.
+\newblock Designing distributed-type haptic device based on rotational skin stretch.
+\newblock {\em Transactions of the Virtual Reality Society of Japan}, 25(4):402--411, 2020.
 
 \bibitem{saito2021transparency}
-Hiroto Saito, Arata Horie, Azumi Maekawa, Seito Matsubara, Sohei Wakisaka,
-  Zendai Kashino, Shunichi Kasahara, and Masahiko Inami.
+Hiroto Saito, Arata Horie, Azumi Maekawa, Seito Matsubara, Sohei Wakisaka, Zendai Kashino, Shunichi Kasahara, and Masahiko Inami.
 \newblock Transparency in human-machine mutual action.
 \newblock {\em Journal of Robotics and Mechatronics}, 33(5):987--1003, 2021.
 
 \bibitem{emiri2025piano}
-Emiri Yorioka, Yufan Zhu, Jinsuke Morita, Sohei Wakisaka, Arata Horie, and
-  Kouta Minamizawa.
+Emiri Yorioka, Yufan Zhu, Jinsuke Morita, Sohei Wakisaka, Arata Horie, and Kouta Minamizawa.
 \newblock Piano duo: Haptic sharing system supports two-piano practice.
-\newblock In {\em 2025 IEEE World Haptics Conference (WHC)}, page TBD. IEEE,
-  2025.
+\newblock In {\em 2025 IEEE World Haptics Conference (WHC)}, page TBD. IEEE, 2025.
 
 \bibitem{shen2025s}
-Ximing Shen, Xuan Li, Youichi Kamiyama, Danny Hynds, Giulia Barbareschi, RAY
-  Lc, Sohei Wakisaka, Arata Horie, and Kouta Minamizawa.
-\newblock " it's like being on stage": Conveying dancers' expressiveness
-  through a haptic-installed contemporary dance performance.
-\newblock In {\em Proceedings of the 2025 CHI Conference on Human Factors in
-  Computing Systems}, pages 1--18, 2025.
+Ximing Shen, Xuan Li, Youichi Kamiyama, Danny Hynds, Giulia Barbareschi, RAY Lc, Sohei Wakisaka, Arata Horie, and Kouta Minamizawa.
+\newblock " it's like being on stage": Conveying dancers' expressiveness through a haptic-installed contemporary dance performance.
+\newblock In {\em Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems}, pages 1--18, 2025.
 
 \bibitem{umehara2024rotational}
 Rodan Umehara, Arata Horie, and Kouta Minamizawa.
-\newblock Rotational skin-stretch distribution creates directional force
-  sensation on the wrist.
-\newblock In {\em International Conference on Human Haptic Sensing and Touch
-  Enabled Computer Applications}, pages 238--250. Springer, 2024.
+\newblock Rotational skin-stretch distribution creates directional force sensation on the wrist.
+\newblock In {\em International Conference on Human Haptic Sensing and Touch Enabled Computer Applications}, pages 238--250. Springer, 2024.
 
 \bibitem{horie2023wearable}
 Arata Horie, Yunao Zheng, and Masahiko Inami.
-\newblock A wearable system integrating force myography and skin stretch
-  feedback toward force skill learning.
-\newblock In {\em 2023 IEEE World Haptics Conference (WHC)}, pages 190--196.
-  IEEE, 2023.
+\newblock A wearable system integrating force myography and skin stretch feedback toward force skill learning.
+\newblock In {\em 2023 IEEE World Haptics Conference (WHC)}, pages 190--196. IEEE, 2023.
 
 \bibitem{murata2023dynamic}
 Ryo Murata, Arata Horie, and Masahiko Inami.
-\newblock Dynamic derm: Body surface deformation display for real-world
-  embodied interactions.
-\newblock In {\em Proceedings of the Augmented Humans International Conference
-  2023}, AHs '23, page 267–277, New York, NY, USA, 2023. Association for
-  Computing Machinery.
+\newblock Dynamic derm: Body surface deformation display for real-world embodied interactions.
+\newblock In {\em Proceedings of the Augmented Humans International Conference 2023}, AHs '23, page 267–277, New York, NY, USA, 2023. Association for Computing Machinery.
 
 \bibitem{ichihashi2021high}
-Sosuke Ichihashi, Arata Horie, Masaharu Hirose, Zendai Kashino, Shigeo Yoshida,
-  and Masahiko Inami.
-\newblock High-speed non-contact thermal display using infrared rays and
-  shutter mechanism.
-\newblock UbiComp '21, page 565–569, New York, NY, USA, 2021. Association for
-  Computing Machinery.
+Sosuke Ichihashi, Arata Horie, Masaharu Hirose, Zendai Kashino, Shigeo Yoshida, and Masahiko Inami.
+\newblock High-speed non-contact thermal display using infrared rays and shutter mechanism.
+\newblock UbiComp '21, page 565–569, New York, NY, USA, 2021. Association for Computing Machinery.
 
 \bibitem{horie2021Two}
 Arata Horie, Zendai Kashino, Hideki Shimobayashi, and Masahiko Inami.
-\newblock Two-dimensional moving phantom sensation created by rotational skin
-  stretch distribution.
-\newblock In {\em 2021 IEEE World Haptics Conference (WHC)}, pages 139--144,
-  2021.
+\newblock Two-dimensional moving phantom sensation created by rotational skin stretch distribution.
+\newblock In {\em 2021 IEEE World Haptics Conference (WHC)}, pages 139--144, 2021.
 
 \bibitem{horie2021Encountered}
 Arata Horie, MHD~Yamen Saraiji, Zendai Kashino, and Masahiko Inami.
-\newblock Encounteredlimbs: A room-scale encountered-type haptic presentation
-  using wearable robotic arms.
-\newblock In {\em 2021 IEEE Virtual Reality and 3D User Interfaces (VR)}, pages
-  260--269. IEEE, 2021.
+\newblock Encounteredlimbs: A room-scale encountered-type haptic presentation using wearable robotic arms.
+\newblock In {\em 2021 IEEE Virtual Reality and 3D User Interfaces (VR)}, pages 260--269. IEEE, 2021.
 
 \bibitem{shimobayashi2021}
-Hideki Shimobayashi, Tomoya Sasaki, Arata Horie, Riku Arakawa, Zendai Kashino,
-  and Masahiko Inami.
-\newblock Independent control of supernumerary appendages exploiting upper limb
-  redundancy.
-\newblock In {\em Augmented Humans Conference 2021}, AHs'21, page 19–30, New
-  York, NY, USA, 2021. Association for Computing Machinery.
+Hideki Shimobayashi, Tomoya Sasaki, Arata Horie, Riku Arakawa, Zendai Kashino, and Masahiko Inami.
+\newblock Independent control of supernumerary appendages exploiting upper limb redundancy.
+\newblock In {\em Augmented Humans Conference 2021}, AHs'21, page 19–30, New York, NY, USA, 2021. Association for Computing Machinery.
 
 \bibitem{tanaka2020Dual}
 Yudai Tanaka, Arata Horie, and Xiang~'Anthony' Chen.
-\newblock Dualvib: Simulating haptic sensation of dynamic mass by combining
-  pseudo-force and texture feedback.
-\newblock In {\em 26th ACM Symposium on Virtual Reality Software and
-  Technology}, VRST '20, New York, NY, USA, 2020. Association for Computing
-  Machinery.
+\newblock Dualvib: Simulating haptic sensation of dynamic mass by combining pseudo-force and texture feedback.
+\newblock In {\em 26th ACM Symposium on Virtual Reality Software and Technology}, VRST '20, New York, NY, USA, 2020. Association for Computing Machinery.
 
 \bibitem{horie2018buttock}
 Arata Horie, Hikaru Nagano, Masashi Konyo, and Satoshi Tadokoro.
-\newblock Buttock skin stretch: Inducing shear force perception and
-  acceleration illusion on self-motion perception.
-\newblock In {\em International Conference on Human Haptic Sensing and Touch
-  Enabled Computer Applications}, pages 135--147. Springer, 2018.
+\newblock Buttock skin stretch: Inducing shear force perception and acceleration illusion on self-motion perception.
+\newblock In {\em International Conference on Human Haptic Sensing and Touch Enabled Computer Applications}, pages 135--147. Springer, 2018.
 
 \bibitem{higashi2025experience}
-Haruomi Higashi, Yufan Zhu, Jack Brophy, Ismael Rasa, Jinsuke Morita, Arata
-  Horie, Takatoshi Yoshida, and Kouta Minamizawa.
-\newblock Experience sharing box: A platform for capturing, storing, and
-  playback of multisensory memory.
-\newblock In {\em Proceedings of the SIGGRAPH Asia 2025 Emerging Technologies},
-  pages 1--2. 2025.
+Haruomi Higashi, Yufan Zhu, Jack Brophy, Ismael Rasa, Jinsuke Morita, Arata Horie, Takatoshi Yoshida, and Kouta Minamizawa.
+\newblock Experience sharing box: A platform for capturing, storing, and playback of multisensory memory.
+\newblock In {\em Proceedings of the SIGGRAPH Asia 2025 Emerging Technologies}, pages 1--2. 2025.
 
 \bibitem{umehara2024feeltech}
-Rodan Umehara, Harunobu Taguchi, Arata Horie, Yusuke Kamiyama, Shin Sakamoto,
-  Hironori Ishikawa, and Kouta Minamizawa.
-\newblock Feeltech wear: Enhancing mixed reality experience with wrist to
-  finger haptic attribution.
+Rodan Umehara, Harunobu Taguchi, Arata Horie, Yusuke Kamiyama, Shin Sakamoto, Hironori Ishikawa, and Kouta Minamizawa.
+\newblock Feeltech wear: Enhancing mixed reality experience with wrist to finger haptic attribution.
 \newblock In {\em ACM SIGGRAPH 2024 Emerging Technologies}, pages 1--2. 2024.
 
 \bibitem{tsujita2024haptoroom}
-Kiryu Tsujita, Takatoshi Yoshida, Kohei Kobayashi, Arata Horie, Nobuhisa
-  Hanamitsu, and Kouta Minamizawa.
-\newblock Haptoroom: Using vibrotactile floor interfaces to enable
-  reconfigurable haptic interaction onto any furniture surfaces.
+Kiryu Tsujita, Takatoshi Yoshida, Kohei Kobayashi, Arata Horie, Nobuhisa Hanamitsu, and Kouta Minamizawa.
+\newblock Haptoroom: Using vibrotactile floor interfaces to enable reconfigurable haptic interaction onto any furniture surfaces.
 \newblock In {\em ACM SIGGRAPH 2024 Emerging Technologies}, pages 1--2. 2024.
 
 \bibitem{taguchi2023multichannel}
-Harunobu Taguchi, Youichi Kamiyama, Kenta Kan, Yulan Ju, Arata Horie, Yoshihiro
-  Tanaka, Hironori Ishikawa, and Kouta Minamizawa.
-\newblock Multichannel haptic communication platform with wearable sensing and
-  display.
+Harunobu Taguchi, Youichi Kamiyama, Kenta Kan, Yulan Ju, Arata Horie, Yoshihiro Tanaka, Hironori Ishikawa, and Kouta Minamizawa.
+\newblock Multichannel haptic communication platform with wearable sensing and display.
 \newblock In {\em SIGGRAPH Asia 2023 Emerging Technologies}, pages 1--2. 2023.
 
 \bibitem{uyama2023somatic}
-Aoi Uyama, Youichi Kamiyama, Sohei Wakisaka, Arata Horie, Tatsuya Saito, and
-  Kouta Minamizawa.
-\newblock Somatic music: Enhancing musical experiences through the performer's
-  embodiment.
+Aoi Uyama, Youichi Kamiyama, Sohei Wakisaka, Arata Horie, Tatsuya Saito, and Kouta Minamizawa.
+\newblock Somatic music: Enhancing musical experiences through the performer's embodiment.
 \newblock In {\em SIGGRAPH Asia 2023 Posters}, pages 1--2. 2023.
 
 \bibitem{horie2022seeing}
 Arata Horie, Ryo Murata, Zendai Kashino, and Masahiko Inami.
-\newblock Seeing is feeling: A novel haptic display for wearer-observer mutual
-  haptic understanding.
-\newblock In {\em ACM SIGGRAPH Asia 2022 Emerging Technologies}, SIGGRAPH Asia
-  '22, New York, NY, USA, 2022. Association for Computing Machinery.
+\newblock Seeing is feeling: A novel haptic display for wearer-observer mutual haptic understanding.
+\newblock In {\em ACM SIGGRAPH Asia 2022 Emerging Technologies}, SIGGRAPH Asia '22, New York, NY, USA, 2022. Association for Computing Machinery.
 
 \bibitem{ichihashi2022themoblinds}
-Sosuke Ichihashi, Arata Horie, Masaharu Hirose, Zendai Kashino, Shigeo Yoshida,
-  Sohei Wakisaka, and Masahiko Inami.
-\newblock Thermoblinds: Non-contact, highly responsive thermal feedback for
-  thermal interaction.
-\newblock In {\em ACM SIGGRAPH 2022 Emerging Technologies}, SIGGRAPH '22, New
-  York, NY, USA, 2022. Association for Computing Machinery.
+Sosuke Ichihashi, Arata Horie, Masaharu Hirose, Zendai Kashino, Shigeo Yoshida, Sohei Wakisaka, and Masahiko Inami.
+\newblock Thermoblinds: Non-contact, highly responsive thermal feedback for thermal interaction.
+\newblock In {\em ACM SIGGRAPH 2022 Emerging Technologies}, SIGGRAPH '22, New York, NY, USA, 2022. Association for Computing Machinery.
 
 \bibitem{horie2020Torsion}
 Arata Horie, Hideki Shimobayashi, and Masahiko Inami.
-\newblock Torsioncrowds: Multi-points twist stimulation display for large part
-  of the body.
-\newblock In {\em ACM SIGGRAPH 2020 Emerging Technologies}, SIGGRAPH '20, New
-  York, NY, USA, 2020. Association for Computing Machinery.
+\newblock Torsioncrowds: Multi-points twist stimulation display for large part of the body.
+\newblock In {\em ACM SIGGRAPH 2020 Emerging Technologies}, SIGGRAPH '20, New York, NY, USA, 2020. Association for Computing Machinery.
 
 \bibitem{horie2019whole}
 Arata Horie, Masashi Konyo, Hikaru Nagano, and Satoshi Tadokoro.
@@ -159,50 +111,38 @@ Arata Horie, Masashi Konyo, Hikaru Nagano, and Satoshi Tadokoro.
 \newblock In {\em IEEE World Haptics Conference}. IEEE, 2019.
 
 \bibitem{horie2018enhancing}
-Arata Horie, Akito Nomura, Kenjiro Tadakuma, Masashi Konyo, Hikaru Nagano, and
-  Satoshi Tadokoro.
-\newblock Enhancing haptic experience in a seat with two-dof buttock skin
-  stretch.
-\newblock In {\em International AsiaHaptics conference}, pages 134--138.
-  Springer, 2018.
+Arata Horie, Akito Nomura, Kenjiro Tadakuma, Masashi Konyo, Hikaru Nagano, and Satoshi Tadokoro.
+\newblock Enhancing haptic experience in a seat with two-dof buttock skin stretch.
+\newblock In {\em International AsiaHaptics conference}, pages 134--138. Springer, 2018.
 
 \bibitem{horie2019VRSJ}
 Arata Horie and Masahiko Inami.
-\newblock Basic study of rotating tactors array presenting strain distribution
-  on back skin.
-\newblock In {\em Annual Conference of the Virtual Reality Society of Japan}.
-  VRSJ, 2019.
+\newblock Basic study of rotating tactors array presenting strain distribution on back skin.
+\newblock In {\em Annual Conference of the Virtual Reality Society of Japan}. VRSJ, 2019.
 
 \bibitem{horie2018SI}
-Arata Horie, Akito Nomura, Kenjiro Tadakuma, Hikaru Nagano, Masashi Konyo, and
-  Satoshi Tadokoro.
-\newblock 2-dof buttock skin stretch for inducing acceleration perseption of
-  self-motion.
+Arata Horie, Akito Nomura, Kenjiro Tadakuma, Hikaru Nagano, Masashi Konyo, and Satoshi Tadokoro.
+\newblock 2-dof buttock skin stretch for inducing acceleration perseption of self-motion.
 \newblock In {\em SICE System Integration}, volume 2018. SICE, 2018.
 
 \bibitem{horie2018VRSJ}
 Arata Horie, Hikaru Nagano, Masashi Konyo, and Satoshi Tadokoro.
 \newblock Presenting pushing up feeling from the seat by buttocks skin stretch.
-\newblock In {\em Annual Conference of the Virtual Reality Society of Japan},
-  volume 2017. VRSJ, 2017.
+\newblock In {\em Annual Conference of the Virtual Reality Society of Japan}, volume 2017. VRSJ, 2017.
 
 \bibitem{horie2018Robomech}
 Arata Horie, Hikaru Nagano, Masashi Konyo, and Satoshi Tadokoro.
-\newblock Induction of acceleration sensation of self-motion by presenting
-  shear force to buttocks.
+\newblock Induction of acceleration sensation of self-motion by presenting shear force to buttocks.
 \newblock In {\em Robotics Mechatronics Conference 2018}. JSME, 2018.
 
 \bibitem{horie2017SI}
 Arata Horie, Hikaru Nagano, Masashi Konyo, and Satoshi Tadokoro.
-\newblock -2nd report- sliding direction and speed presentation combining high
-  frequency and asymmetric vibration.
+\newblock -2nd report- sliding direction and speed presentation combining high frequency and asymmetric vibration.
 \newblock In {\em SICE System Integration}, volume 2017. SICE, 2017.
 
 \bibitem{horie2017VRSJ}
 Arata Horie, Hikaru Nagano, Masashi Konyo, and Satoshi Tadokoro.
-\newblock Sliding direction and speed presentation combining high frequency and
-  asymmetric vibration.
-\newblock In {\em Annual Conference of the Virtual Reality Society of Japan},
-  volume 2017. VRSJ, 2017.
+\newblock Sliding direction and speed presentation combining high frequency and asymmetric vibration.
+\newblock In {\em Annual Conference of the Virtual Reality Society of Japan}, volume 2017. VRSJ, 2017.
 
 \end{thebibliography}
